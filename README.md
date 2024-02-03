@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oparasoludo19
 - 👀 I’m interested in web design
-- 🌱 I’m currently looking forward to the development of a website 
-- 💞️ I’m looking to collaborate on developing a site
+- 🌱 I’m currently looking forward to the development of your website 
+- 💞️ I’m looking  forward to collaborate on developing a site
 - 📫 How to reach me via email
 
 <!---
